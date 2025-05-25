@@ -36,7 +36,7 @@
 <br>
 <h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px">Connect with me</h3>
 <p align="center">
-<a href="https://linkedin.com/in/randimal lamahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randimal lamahewa" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/randimal-lamahewa-153483271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randimal lamahewa" height="30" width="40" /></a>
 <a href="https://fb.com/randimal lamahewa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="randimal lamahewa" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/open mind" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="open mind" height="30" width="40" /></a>
 </p>
